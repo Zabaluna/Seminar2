@@ -1,0 +1,15 @@
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task15_short\bin\Debug\net6.0\task15_short.exe
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task15_short\bin\Debug\net6.0\task15_short.deps.json
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task15_short\bin\Debug\net6.0\task15_short.runtimeconfig.json
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task15_short\bin\Debug\net6.0\task15_short.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task15_short\bin\Debug\net6.0\task15_short.pdb
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task15_short\obj\Debug\net6.0\task15_short.csproj.AssemblyReference.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task15_short\obj\Debug\net6.0\task15_short.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task15_short\obj\Debug\net6.0\task15_short.AssemblyInfoInputs.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task15_short\obj\Debug\net6.0\task15_short.AssemblyInfo.cs
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task15_short\obj\Debug\net6.0\task15_short.csproj.CoreCompileInputs.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task15_short\obj\Debug\net6.0\task15_short.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task15_short\obj\Debug\net6.0\refint\task15_short.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task15_short\obj\Debug\net6.0\task15_short.pdb
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task15_short\obj\Debug\net6.0\task15_short.genruntimeconfig.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task15_short\obj\Debug\net6.0\ref\task15_short.dll
