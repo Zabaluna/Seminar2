@@ -1,0 +1,15 @@
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task13_tryParse\bin\Debug\net6.0\task13_tryParse.exe
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task13_tryParse\bin\Debug\net6.0\task13_tryParse.deps.json
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task13_tryParse\bin\Debug\net6.0\task13_tryParse.runtimeconfig.json
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task13_tryParse\bin\Debug\net6.0\task13_tryParse.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task13_tryParse\bin\Debug\net6.0\task13_tryParse.pdb
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task13_tryParse\obj\Debug\net6.0\task13_tryParse.csproj.AssemblyReference.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task13_tryParse\obj\Debug\net6.0\task13_tryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task13_tryParse\obj\Debug\net6.0\task13_tryParse.AssemblyInfoInputs.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task13_tryParse\obj\Debug\net6.0\task13_tryParse.AssemblyInfo.cs
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task13_tryParse\obj\Debug\net6.0\task13_tryParse.csproj.CoreCompileInputs.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task13_tryParse\obj\Debug\net6.0\task13_tryParse.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task13_tryParse\obj\Debug\net6.0\refint\task13_tryParse.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task13_tryParse\obj\Debug\net6.0\task13_tryParse.pdb
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task13_tryParse\obj\Debug\net6.0\task13_tryParse.genruntimeconfig.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar2\task13_tryParse\obj\Debug\net6.0\ref\task13_tryParse.dll
