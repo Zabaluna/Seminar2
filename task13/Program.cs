@@ -5,7 +5,6 @@
 
 Console.WriteLine("Введите номер: ");
 int number = Convert.ToInt32(Console.ReadLine());
-// int number = Convert.ToInt32(Math.Abs(number));тут не к чему
 
 if(Math.Abs(number) > 99)
 {
